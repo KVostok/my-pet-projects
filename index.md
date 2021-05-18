@@ -1,4 +1,4 @@
-### Курс "JavaRush.ru"
+# Курс "JavaRush.ru"
 
 ## Квест "Игры"
 
@@ -11,7 +11,7 @@
 		
 ## Мини проекты
 
-# Квест "Java Multithreading"
+### Квест "Java Multithreading"
 
 [Ипподром]<br>
 [Рефакторинг]<br>
@@ -19,7 +19,9 @@
 [Архиватор]<br>
 [HTML редактор]<br>
 
-# Квест "Java Collections"
+### Квест "Java Collections"
+
+[]
 
 [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
