@@ -4,7 +4,7 @@
 
 [Игра сапер](https://github.com/KVostok/minesweeper)<br>
 [Игра змейка](https://github.com/KVostok/snake)<br>
-[2048](https://github.com/KVostok/game2048)<br>
+[Игра 2048](https://github.com/KVostok/game2048)<br>
 [Moon Lander]<br>
 [Racer]<br>
 [Space invaders]<br>
