@@ -5,9 +5,9 @@
 [Игра сапер](https://github.com/KVostok/minesweeper)<br>
 [Игра змейка](https://github.com/KVostok/snake)<br>
 [Игра 2048](https://github.com/KVostok/game2048)<br>
-[Moon Lander]<br>
-[Racer]<br>
-[Space invaders]<br>
+[Moon Lander](https://github.com/KVostok/moonlander)<br>
+[Racer](https://github.com/KVostok/racer)<br>
+[Space invaders](https://github.com/KVostok/spaceinvaders)<br>
 		
 ## Мини проекты
 
