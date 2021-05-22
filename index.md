@@ -23,7 +23,7 @@
 
 []
 
-### Стажировка
+## Стажировка
 
 [Тестовое задание на стажировку](https://github.com/KVostok/JavaRush_testtask_trainee_RPG)<br>
 
