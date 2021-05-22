@@ -23,6 +23,10 @@
 
 []
 
+### Стажировка
+
+[Тестовое задание на стажировку](https://github.com/KVostok/JavaRush_testtask_trainee_RPG)<br>
+
 [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 2021 г.
