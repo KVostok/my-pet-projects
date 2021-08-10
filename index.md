@@ -29,5 +29,6 @@
 [Выпускной проект со стажировки (Курс TopJava)](https://github.com/KVostok/RestaurantRatingSystem)<br>
 
 <!-- [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/). -->
+---
 <a href="https://profile-summary-for-github.com/user/kvostok">Profile summary for github</a><br>
 2021 г.
