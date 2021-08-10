@@ -26,7 +26,7 @@
 ## Стажировка
 
 [Тестовое задание на стажировку](https://github.com/KVostok/JavaRush_testtask_trainee_RPG)<br>
+[Выпускной проект со стажировки (Курс TopJava)](https://github.com/KVostok/RestaurantRatingSystem)<br>
 
-[GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
+<!-- [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/). -->
 2021 г.
