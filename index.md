@@ -9,7 +9,7 @@
 [Racer](https://github.com/KVostok/racer)<br>
 [Space invaders](https://github.com/KVostok/spaceinvaders)<br>
 		
-## Мини проекты
+<!-- ## Мини проекты
 
 ### Квест "Java Multithreading"
 
@@ -21,7 +21,7 @@
 
 ### Квест "Java Collections"
 
-[]
+[] -->
 
 ## Стажировка
 
