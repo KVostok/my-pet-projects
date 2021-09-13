@@ -30,7 +30,7 @@
 
 ## Тестовые задания
 
-[Тестовое задание на позицию Начинающий Java разработчик для Альфа-банка](https://github.com/KVostok/exchangerate)<br>
+[Тестовое задание от Альфа-банка](https://github.com/KVostok/exchangerate)<br>
 
 <!-- [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/). -->
 ---
