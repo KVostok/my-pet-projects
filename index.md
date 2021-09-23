@@ -23,13 +23,11 @@
 
 [] -->
 
-## Стажировка
-
-[Тестовое задание на стажировку](https://github.com/KVostok/JavaRush_testtask_trainee_RPG)<br>
-[Выпускной проект со стажировки (Курс TopJava)](https://github.com/KVostok/RestaurantRatingSystem)<br>
+[Проект Голосование за рестораны](https://github.com/KVostok/RestaurantRatingSystem)<br>
 
 ## Тестовые задания
 
+[Тестовое задание на стажировку](https://github.com/KVostok/JavaRush_testtask_trainee_RPG)<br>
 [Тестовое задание от Альфа-банка](https://github.com/KVostok/exchangerate)<br>
 
 <!-- [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/). -->
