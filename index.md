@@ -1,6 +1,10 @@
 # Мои проекты
 
 [Проект Голосование за рестораны](https://github.com/KVostok/RestaurantRatingSystem)<br>
+<a href="https://restvoting-kvostok.koyeb.app">_Demo_</a> on <a href="https://www.koyeb.com/">_Koyeb.com_</a>
+_(Koyeb - The fastest way to deploy applications globally)_</br>
+(Authorize with: _user1@yandex.ru / password_ for user role or _admin@gmail.com / admin_ for admin role)</br>
+* <a href="https://restvoting-kvostok.koyeb.app/swagger-ui.html">_REST Api Documentation_</a><br>
 
 # Тестовые задания
 
