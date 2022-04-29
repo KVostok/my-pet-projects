@@ -1,14 +1,22 @@
 # Мои проекты
 
-[Проект Голосование за рестораны](https://github.com/KVostok/RestaurantRatingSystem)<br>
-<a href="https://restvoting-kvostok.koyeb.app">_Demo_</a> on <a href="https://www.koyeb.com/">_Koyeb.com_</a>
-_(Koyeb - The fastest way to deploy applications globally)_<br>
+[Миграция проекта Голосование за рестораны на Spring Boot](https://github.com/KVostok/RestaurantVotingApplication)<br>
+- Stack: [JDK 17](http://jdk.java.net/17/), Spring Boot 2.5.5, Lombok, HSQLDB 2.6.0, Swagger/OpenAPI 3.0 <br>
 (Authorize with: _user1@yandex.ru / password_ for user role or _admin@gmail.com / admin_ for admin role)<br>
-* <a href="https://restvoting-kvostok.koyeb.app/swagger-ui.html">_REST Api Documentation_</a><br>
+
+[Проект Голосование за рестораны](https://github.com/KVostok/RestaurantRatingSystem)<br>
+- Stack: [JDK 16](http://jdk.java.net/16/), Spring Framework 5.3.8, HSQLDB 2.6.0, Swagger 2.0<br>
+- [_Demo_](https://restvoting-kvostok.koyeb.app) on [_Koyeb.com_](https://www.koyeb.com/)
+_(Koyeb - The fastest way to deploy applications globally)_<br>
+- (Authorize with: _user1@yandex.ru / password_ for user role or _admin@gmail.com / admin_ for admin role)<br>
+- [_REST Api Documentation_](https://restvoting-kvostok.koyeb.app/swagger-ui.html)<br>
+
+[Стажировка Topjava](https://github.com/KVostok/topjava)<br>
+- Stack: [JDK 8](http://jdk.java.net/8/)-[JDK 16](http://jdk.java.net/16/), Maven, Spring, Security, JPA(Hibernate), REST(Jackson), Bootstrap(CSS), jQuery + plugins<br>
 
 # Тестовые задания
 
-[Тестовое задание на стажировку](https://github.com/KVostok/JavaRush_testtask_trainee_RPG)<br>
+[Тестовое задание на стажировку TopJava](https://github.com/KVostok/JavaRush_testtask_trainee_RPG)<br>
 [Тестовое задание от Альфа-банка](https://github.com/KVostok/exchangerate)<br>
 
 # Курс "JavaRush.ru"
