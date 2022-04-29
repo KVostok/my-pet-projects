@@ -1,5 +1,12 @@
 # Мои проекты
 
+Проект «Единая фронтальная система Сбербанка».<br>
+[_ГК «Лига Цифровой Экономики» г. Москва_](http://digitalleague.ru)
+
+Участие в разработке enterprise-приложения на стеке: Java 8, Maven, Spring, Hazelcast, JMS(ActiveMQ), XML/JAXB, REST (Jackson), AS WebSphere, MapStruct, веб-сервисы.<br>
+- Реализация и тестирование новой функциональности по работе с кассовыми ордерами: REST контроллеров, сервиса интеграции с подсистемой банка АСФС, адаптеров интеграции, эмулятора работы подсистемы банка АСФС.
+- Реализация обработки запросов и сохранения результатов в распределенный кэш Hazelcast.
+
 [Миграция проекта Голосование за рестораны на Spring Boot](https://github.com/KVostok/RestaurantVotingApplication)<br>
 - Stack: [JDK 17](http://jdk.java.net/17/), Spring Boot 2.5.5, Lombok, HSQLDB 2.6.0, Swagger/OpenAPI 3.0 <br>
 (Authorize with: _user1@yandex.ru / password_ for user role or _admin@gmail.com / admin_ for admin role)<br>
