@@ -7,6 +7,9 @@
 - Реализация и тестирование новой функциональности по работе с кассовыми ордерами: REST контроллеров, сервиса интеграции с подсистемой банка АСФС, адаптеров интеграции, эмулятора работы подсистемы банка АСФС.
 - Реализация обработки запросов и сохранения результатов в распределенный кэш Hazelcast.
 
+[Проект JavaRush Telegram bot](https://github.com/KVostok/javarush-telegrambot)<br>
+- Stack: [JDK 11](http://jdk.java.net/11/), Spring Boot 2, Spring Scheduler, Spring Data, MySQL 8, Flyway tool, Telegram-bot SpringBoot starter, Unirest lib, Lombok<br>
+
 [Миграция проекта Голосование за рестораны на Spring Boot](https://github.com/KVostok/RestaurantVotingApplication)<br>
 - Stack: [JDK 17](http://jdk.java.net/17/), Spring Boot 2.5.5, Lombok, HSQLDB 2.6.0, Swagger/OpenAPI 3.0 <br>
 (Authorize with: _user1@yandex.ru / password_ for user role or _admin@gmail.com / admin_ for admin role)<br>
